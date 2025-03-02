@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I'm Hritvik 
 # 💫 About Me:
 🚀 Passionate Developer | 📱 React Native Explorer | 🤖 AI/ML Enthusiast<br>Building cool projects & breaking bugs one commit at a time! 💻🔥
 
